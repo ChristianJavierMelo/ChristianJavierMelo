@@ -1,24 +1,15 @@
-<img src="https://images.unsplash.com/photo-1543963815-8c8cd761efb3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1243&q=80"/>
+<img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"/>
 
 ### Hi everybody 👋! I'm Christian Javier Melo. I'm a data scientist and Quality analyst. Welcome to my Github profile :factory:!
 
-Resume: [Christian Javier Melo] ()
+- 🔭 *currently working on*: Provide pricing and specification intelligence for Europe’s automotive decision-makers, taking masses of complex automotive data and make sense of it.
 
-<!--
-**ChristianJavierMelo/ChristianJavierMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 *currently learning*: Python language
 
-Here are some ideas to get you started:
+- 💬 Ask me about my repositories and let me know if you are interested in any of them. I always down for a good conversation 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"/>
-
-<img src="https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?ixlib=rb-1.2.1&auto=format&fit=crop&w=710&q=80"/>
+- 📫 How to reach me: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[Email](christian_javier.melo@hotmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[LinkedIn](https://www.linkedin.com/in/christian-javier-melo)
