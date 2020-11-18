@@ -13,3 +13,11 @@
 [Email](christian_javier.melo@hotmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [LinkedIn](https://www.linkedin.com/in/christian-javier-melo)
+
+[![Christian's github stats](https://github-readme-stats.vercel.app/api?username=ChristianJavierMelo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=Predict-diamonds-price)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianJavierMelo&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianJavierMelo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
