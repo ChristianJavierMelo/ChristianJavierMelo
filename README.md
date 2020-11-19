@@ -14,10 +14,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [LinkedIn](https://www.linkedin.com/in/christian-javier-melo)
 
-[![Christian's github stats](https://github-readme-stats.vercel.app/api?username=ChristianJavierMelo)](https://github.com/anuraghazra/github-readme-stats)
+![Christian's github stats](https://github-readme-stats.vercel.app/api?username=ChristianJavierMelo&show_icons=true&theme=default)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=Predict-diamonds-price)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianJavierMelo&langs_count=3)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianJavierMelo&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianJavierMelo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=ih_datamadpt0420_project_m1)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=EDA-visualization-with-Tableau)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=Predict-diamonds-price)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=ih_datamadpt0420_Final-project)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=dataptmad0420)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=Python)
