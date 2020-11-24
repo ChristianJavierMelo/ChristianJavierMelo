@@ -14,9 +14,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [LinkedIn](https://www.linkedin.com/in/christian-javier-melo)
 
-![Christian's github stats](https://github-readme-stats.vercel.app/api?username=ChristianJavierMelo&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianJavierMelo&langs_count=3)
+<a href="https://github.com/ChristianJavierMelo/ChristianJavierMelo">
+  <img align="left" src="![Christian's github stats](https://github-readme-stats.vercel.app/api?username=ChristianJavierMelo&show_icons=true&theme=default)" />
+</a>
+<a href="https://github.com/ChristianJavierMelo/ChristianJavierMelo">
+  <img align="right" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianJavierMelo&langs_count=3)" />
+</a>
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=ih_datamadpt0420_project_m1)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=EDA-visualization-with-Tableau)
