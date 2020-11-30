@@ -1,4 +1,4 @@
-<img src="https://unsplash.com/photos/t1XLQvDqt_4"/>
+![alt_text](https://today.iit.edu/wp-content/uploads/2015/07/golden-knights-large.jpg)
 
 <h1 align="center">Hi 👋, I'm Christian Javier Melo</h1>
 <h3 align="center">A passionate Data Analyst from Madrid, Spain</h3>
@@ -38,9 +38,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christianjaviermelo&show_icons=true&locale=en" alt="christianjaviermelo" /></p>
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=ih_datamadpt0420_project_m1)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=EDA-visualization-with-Tableau)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=Predict-diamonds-price)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=ih_datamadpt0420_Final-project)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=dataptmad0420)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=Python)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=ih_datamadpt0420_project_m1)(https://github.com/ChristianJavierMelo/ih_datamadpt0420_project_m1)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=EDA-visualization-with-Tableau)(https://github.com/ChristianJavierMelo/EDA-visualization-with-Tableau)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=Predict-diamonds-price)(https://github.com/ChristianJavierMelo/Predict-diamonds-price)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=ih_datamadpt0420_Final-project)(https://github.com/ChristianJavierMelo/ih_datamadpt0420_Final-project)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=dataptmad0420)(https://github.com/ChristianJavierMelo/dataptmad0420)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=Python)(https://github.com/ChristianJavierMelo/Python)
