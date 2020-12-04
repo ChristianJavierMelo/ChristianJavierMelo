@@ -41,6 +41,6 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=ih_datamadpt0420_project_m1)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=EDA-visualization-with-Tableau)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=Predict-diamonds-price)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=ih_datamadpt0420_Final-project)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=Vehicle-Type-Recognition)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=dataptmad0420)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianJavierMelo&repo=Python)
